@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harith</h1>
-<h3 align="center">A passionate mobile app and front end developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harithtech&label=Profile%20views&color=0e75b6&style=flat" alt="harithtech" /> </p>
 
-- 🔭 I’m currently working in **tech startup as Product Manager and Software Developer**
+- 🔭 I’m currently coding **everyday and consistently**
 
 - 🌱 I’m currently learning **Fullstack development in MERN**
 
