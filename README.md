@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working in **tech startup as Product Manager and Software Developer**
 
-- 🌱 I’m currently learning **Flutter and ReactJS to master it**
+- 🌱 I’m currently learning **Fullstack development in MERN**
 
-- 👯 I’m looking to collaborate on **my own app which called "Connect"**
+- 👯 I’m looking to collaborate on **building fullstack project"**
 
-- 🤝 I’m looking for help with **"Connect"**
+- 🤝 I’m looking for help with **learning MERN**
 
 - 💬 Ask me about **tech, startup, and programming**
 
 - 📫 How to reach me **harith.trmz@gmail.com**
 
-- ⚡ Fun fact **I'm loving my life**
+- ⚡ Fun fact **Not giving up is what made who I am today**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
