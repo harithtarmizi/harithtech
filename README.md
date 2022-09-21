@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Fullstack development in MERN**
 
-- 👯 I’m looking to collaborate on **building fullstack project"**
+- 👯 I’m looking to collaborate on **building fullstack project**
 
 - 🤝 I’m looking for help with **learning MERN**
 
